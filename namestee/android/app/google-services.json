@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "845720287549",
+    "project_id": "namastee-b60cd",
+    "storage_bucket": "namastee-b60cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845720287549:android:8ff7ef607e2b6ac74bed54",
+        "android_client_info": {
+          "package_name": "com.example.hiichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845720287549-d5jbcm8joa521mnmksevvmts8uijj2ev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hiichat",
+            "certificate_hash": "0f93cb1798048eb9d49e85d1b5e689a813ca86c0"
+          }
+        },
+        {
+          "client_id": "845720287549-uopohvg0svsor5vqoqn3do7r20ncbd4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwRVOzo-SXqcxNTvh-lZJl9pTqvjwQU6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845720287549-uopohvg0svsor5vqoqn3do7r20ncbd4m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "845720287549-bl5pfhmqgl68ahcsiu3s30tk9rjpgif6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hiichat.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
