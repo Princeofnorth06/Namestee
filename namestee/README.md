@@ -1,4 +1,4 @@
-# hiichat
+# Namastee
 
 A new Flutter project.
 
